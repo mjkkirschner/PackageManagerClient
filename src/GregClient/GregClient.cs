@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Net;
 using Greg.Requests;
 using Greg.Responses;
 using RestSharp;
